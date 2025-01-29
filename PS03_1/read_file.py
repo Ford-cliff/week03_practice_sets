@@ -16,7 +16,6 @@ with open("example.txt", "r") as file:
     print(f"Total characters: {len(content)}")
 s: {len(words)}")
 
-# Count the total number of characters in a file
 with open("example.txt", "r") as file:
     content = file.read()
     print(f"Total characters: {len(content)}")
